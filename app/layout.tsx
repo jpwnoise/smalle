@@ -21,11 +21,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Smalle | Hip Hop Artist",
     description: "Professional hip hop, trap and dark beats by Waver.",
-    url: "https://smalle.vercel.app//",
+    url: "https://smalle.vercel.app/",
     siteName: "Waver Beats",
     images: [
       {
-        url: "https://smalle.vercel.app//preview-2.png",
+        url: "https://smalle.vercel.app/preview-2.png",
         width: 1200,
         height: 630,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Waver | Music Producer",
     description: "Professional hip hop, trap and dark beats by Waver.",
-    images: ["https://musicproducer-vercel.vercel.app/preview.jpg"],
+    images: ["https://smalle.vercel.app/preview-2.png"],
   },
 };
 
