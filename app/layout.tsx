@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     title: "Smalle | Hip Hop Artist",
-    description: "Professional hip hop, trap and dark beats by Waver.",
+    description: "Escritor profesional de Hip Hop",
     url: "https://smalle.vercel.app/",
     siteName: "Waver Beats",
     images: [
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Waver | Music Producer",
-    description: "Professional hip hop, trap and dark beats by Waver.",
+    description: "Escritor profesional de Hip Hop",
     images: ["https://smalle.vercel.app/preview-2.png"],
   },
 };
