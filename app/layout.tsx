@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Waver | Music Producer",
-  description: "Professional hip hop, trap and dark beats by Waver.",
+  title: "Smalle - Rapero",
+  description: "Professional hip hop, and trap writer.",
 
   openGraph: {
     title: "Waver | Music Producer",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Waver Beats",
     images: [
       {
-        url: "https://musicproducer-vercel.vercel.app/boombap.png",
+        url: "https://musicproducer-vercel.vercel.app/preview-2.png",
         width: 1200,
         height: 630,
       },
